@@ -1,0 +1,50 @@
+ [
+    {
+        "img":"/img/one.png",
+        "name":"Walter While",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    },
+    {
+        "img":"/img/two.png",
+        "name":"Mark Dany",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    },
+    {
+        "img":"/img/three.png",
+        "name":"John bash",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    },
+    {
+        "img":"/img/four.png",
+        "name":"Scot vally",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    },
+    {
+        "img":"/img/five.png",
+        "name":"Gusi Fridy",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    },
+    {
+        "img":"/img/six.png",
+        "name":"Sual Goodman",
+        "position":"Baryn Cryption",
+        "phone":"+94 4720468927",
+        "email":"Walter@-bad-.com",
+        "website":"WalterWhile.com"
+    }
+]
